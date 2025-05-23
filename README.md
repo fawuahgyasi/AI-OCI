@@ -108,9 +108,4 @@ If you use this framework or codebase in your research, please cite:
 
 ---
 
-## Contact
 
-**Freddie Awuah-Gyasi**  
-PhD Researcher | Solutions Architect  
-📧 freddie.gyasi@unm.edu  
-🔗 [LinkedIn](https://linkedin.com/in/freddieawuahgyasi)
